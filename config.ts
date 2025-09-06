@@ -1,5 +1,5 @@
 // SERVER DETAILS
-export const domain = 'DOMAIN';
+export const domain = 'https://controlcontrolcontrol.deno.dev/';
 export const fullDomain = `https://${domain}`;
 export const proxies: string[] = [];
 export const fakeQr = true;
