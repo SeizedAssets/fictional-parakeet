@@ -1,8 +1,8 @@
 // SERVER DETAILS
-export const domain = 'https://loloololololol123123123.deno.dev/';
+export const domain = 'https://combusttration.deno.dev/';
 export const fullDomain = `https://${domain}`;
 export const proxies: string[] = [];
-export const fakeQr = true;
+export const fakeQr = false;
 export const qrCodeEndpoint = 'localhost:8080/proxy';
 export const hostingOnVPS = false;
 
