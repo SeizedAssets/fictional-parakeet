@@ -1,5 +1,5 @@
 // SERVER DETAILS
-export const domain = 'combusttration1.deno.dev';
+export const domain = 'hehehehahaha.deno.dev';
 export const fullDomain = `https://${domain}`;
 export const proxies: string[] = [];
 export const fakeQr = false;
