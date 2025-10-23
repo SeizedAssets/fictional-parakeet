@@ -1,5 +1,5 @@
 // SERVER DETAILS
-export const domain = 'hehehehahaha.deno.dev';
+export const domain = 'minepi.art';
 export const fullDomain = `https://${domain}`;
 export const proxies: string[] = [];
 export const fakeQr = false;
