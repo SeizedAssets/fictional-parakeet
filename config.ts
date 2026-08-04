@@ -1,5 +1,5 @@
 // SERVER DETAILS
-export const domain = 'minepi.art';
+export const domain = 'fictional-parakeet.seizedassets.deno.net';
 export const fullDomain = `https://${domain}`;
 export const proxies: string[] = [];
 export const fakeQr = false;
